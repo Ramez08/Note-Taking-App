@@ -56,5 +56,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-By mentioning the tutorial video as the basis for the project, it provides transparency and acknowledgment to the original source while highlighting your ability to apply the concepts and techniques learned from the tutorial.
