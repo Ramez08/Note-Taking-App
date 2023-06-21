@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+/* Setting global styles for all elements */
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #cf9aff, #95c0ff);
+    color: #fff;
+    padding-top: 4%;
+    padding-left: 10%;
+}
+/* Styling the container element */
+
+.container h1{
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+/* Styling the heading within the container */
+
+.container h1 img{
+    width: 60px;
+}
+/* Styling the image within the heading */
+
+.container button img{
+    width: 25px;
+    margin-right: 8px;
+}
+/* Styling the image within the button */
+
+.container button{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(#9418fd, #571094);
+    color: #fff;
+    font-size: 16px;
+    outline: 0;
+    border: 0;
+    border-radius: 40px;
+    padding: 15px 25px;
+    margin: 30px 0 20px;
+    cursor: pointer;
+}
+/* Styling the button within the container */
+
+.input-box{
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    min-height: 150px;
+    background: #fff;
+    color: #333;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    border-radius: 5px;
+}
+/* Styling the input box */
+
+.input-box img{
+    width: 25px;
+    position: absolute;
+    cursor: pointer;
+    bottom: 15px;
+    right: 25px;
+}
+/* Styling the image within the input box */
