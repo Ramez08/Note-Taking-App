@@ -25,7 +25,7 @@ The project was based on [this tutorial video](https://youtu.be/n3U4jFbp05M).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/note-taking-app.git
+   git clone https://github.com/ramez08/note-taking-app.git
    ```
 
 2. Open the project directory:
