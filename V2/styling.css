@@ -112,3 +112,12 @@
     left: 405px;
     user-select: none;
 }
+
+.signature {
+    /* Signature styles */
+    text-align: right; /* Right align the text */
+    color: white; /* Set the text color */
+    font-family: "Arial"; /* Set the font family */
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
